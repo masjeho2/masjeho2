@@ -126,15 +126,15 @@
 ## 🎨 SNAKE PALETTES (Theme Variants)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/masjeho2/masjeho2/refs/heads/output/ocean.svg" alt="ocean" width="49%"/>
-  <img src="https://raw.githubusercontent.com/masjeho2/masjeho2/refs/heads/output/forest.svg" alt="forest" width="49%"/>
+  <img src="https://raw.githubusercontent.com/masjeho2/masjeho2/17e8e3f/ocean.svg" alt="ocean" width="49%"/>
+  <img src="https://raw.githubusercontent.com/masjeho2/masjeho2/17e8e3f/forest.svg" alt="forest" width="49%"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/masjeho2/masjeho2/refs/heads/output/catppuccin.svg" alt="catppuccin" width="49%"/>
-  <img src="https://raw.githubusercontent.com/masjeho2/masjeho2/refs/heads/output/catppuccin-dark.svg" alt="catppuccin-dark" width="49%"/>
+  <img src="https://raw.githubusercontent.com/masjeho2/masjeho2/17e8e3f/catppuccin.svg" alt="catppuccin" width="49%"/>
+  <img src="https://raw.githubusercontent.com/masjeho2/masjeho2/17e8e3f/catppuccin-dark.svg" alt="catppuccin-dark" width="49%"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/masjeho2/masjeho2/refs/heads/output/synthwave.svg" alt="synthwave" width="49%"/>
+  <img src="https://raw.githubusercontent.com/masjeho2/masjeho2/17e8e3f/synthwave.svg" alt="synthwave" width="49%"/>
   <img src="https://raw.githubusercontent.com/masjeho2/masjeho2/refs/heads/output/synthwave-dark.svg" alt="synthwave-dark" width="49%"/>
 </p>
 
