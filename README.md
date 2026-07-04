@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff14,50:ffd700,100:00f0ff&height=180&section=header&text=MASJEHO2&fontSize=70&fontColor=0a0a0a&fontAlignY=35&desc=🐍%20VPN%20SERVER%20BUILDER%20•%20RETRO%20ARCADE&descSize=20&descColor=39ff14&descAlignY=55"/>
 
 <!-- TYPING EFFECT -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=500&color=39FF14&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🐍+HISS!+WELCOME+TO+ARCADE;💻+VPN+SERVER+BUILDER+🇮🇩;🎮+INSERT+COIN+TO+CONTINUE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&width=600&height=120&lines=HISS!+WELCOME+TO+ARCADE;VPN+SERVER+BUILDER;INSERT+COIN+TO+CONTINUE" alt="Typing SVG" />
 
 ---
 
@@ -21,8 +21,8 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masjeho2&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=39ff14&text_color=ffd700&icon_color=00f0ff&ring_color=39ff14" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=masjeho2&theme=chartreuse-dark&hide_border=true&background=0a0a0a&ring=39ff14&fire=ffd700&currStreakLabel=00f0ff" alt="Streak Stats" height="170"/>
+  <img src="https://opengraph.githubassets.com/1/masjeho2/masjeho2" alt="GitHub Stats" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=masjeho2&theme=chartreuse-dark&hide_border=true&background=0a0a0a&ring=39ff14&fire=ffd700&currStreakLabel=00f0ff" alt="Streak Stats" height="170"/>
 </p>
 
 ---
@@ -31,13 +31,15 @@
 
 <p align="center">
   <a href="https://github.com/masjeho2/xray-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=masjeho2&repo=xray-bot&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=39ff14&text_color=ffd700&icon_color=00f0ff" alt="xray-bot"/>
+    <img src="https://opengraph.githubassets.com/1/masjeho2/xray-bot" alt="xray-bot" width="380"/>
   </a>
   <a href="https://github.com/masjeho2/singbox-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=masjeho2&repo=singbox-bot&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=39ff14&text_color=ffd700&icon_color=00f0ff" alt="singbox-bot"/>
+    <img src="https://opengraph.githubassets.com/1/masjeho2/singbox-bot" alt="singbox-bot" width="380"/>
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/masjeho2/xray-singbox-mongodb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=masjeho2&repo=xray-singbox-mongodb&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=39ff14&text_color=ffd700&icon_color=00f0ff" alt="xray-singbox-mongodb"/>
+    <img src="https://opengraph.githubassets.com/1/masjeho2/xray-singbox-mongodb" alt="xray-singbox-mongodb" width="380"/>
   </a>
 </p>
 
@@ -83,16 +85,16 @@
 
 <p align="center">
   <a href="https://t.me/mas_jeho">
-    <img src="https://img.shields.io/badge/💬_TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://jeho-store.me">
-    <img src="https://img.shields.io/badge/🌐_WEBSITE-39ff14?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0a0a0a" alt="Website"/>
+    <img src="https://img.shields.io/badge/WEBSITE-39ff14?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website"/>
   </a>
   <a href="https://github.com/masjeho2">
-    <img src="https://img.shields.io/badge/💻_GITHUB-ffd700?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0a" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-ffd700?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
   </a>
   <a href="https://wa.me/6285888151996">
-    <img src="https://img.shields.io/badge/📱_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0a0a" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
