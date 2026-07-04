@@ -1,0 +1,43 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # run every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      # Step 1: Checkout repo biar bisa push output
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Generate snake.svg dari GitHub activity user
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.svg?palette=ocean
+            dist/forest.svg?palette=forest
+            dist/catppuccin.svg?palette=catppuccin
+            dist/catppuccin-dark.svg?palette=catppuccin-dark
+            dist/synthwave.svg?palette=synthwave
+            dist/synthwave-dark.svg?palette=synthwave-dark
+          commit_message: "chore: regenerate snake SVGs"
+
+      # Step 3: Push hasil SVG ke branch output
+      - name: Push snake.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_files: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
