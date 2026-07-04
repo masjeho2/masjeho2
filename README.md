@@ -72,8 +72,6 @@
 | 🏆 ACHIEVEMENT | 📋 DESCRIPTION | 🎯 STATUS |
 |:---:|:---|:---:|
 | **SPEEDRUN: VPS PROVISIONING** | Deploy server Xray dalam 60 detik | ✅ UNLOCKED |
-| **COMBO: 1Gbps BANDWIDTH** | Speedtest internasional > 1Gbps | ✅ ACHIEVED (SG: 1162 Mbps) |
-| **BOSS: STABLE PRODUCTION** | 0 downtime 30+ hari | ✅ DEFEATED |
 | **SNAKE: NEVER-ENDING BUILD** | 3+ tahun ngulik VPN | ✅ STILL ALIVE |
 | **SECRET: OWN PM2** | Auto-restart bot saat crash | ✅ UNLOCKED |
 
@@ -84,16 +82,16 @@
 ## 🐍 SNAKE FOOD (Contact)
 
 <p align="center">
-  <a href="https://t.me/mas_jeho">
+  <a href="https://t.me/masjeho">
     <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://jeho-store.me">
+  <a href="https://x-me.cloud">
     <img src="https://img.shields.io/badge/WEBSITE-39ff14?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website"/>
   </a>
   <a href="https://github.com/masjeho2">
     <img src="https://img.shields.io/badge/GITHUB-ffd700?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
   </a>
-  <a href="https://wa.me/6285888151996">
+  <a href="https://wa.me/6285899888023">
     <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
