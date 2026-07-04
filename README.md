@@ -111,9 +111,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masjeho2/masjeho2/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/masjeho2/masjeho2/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/masjeho2/masjeho2/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masjeho2/masjeho2/refs/heads/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/masjeho2/masjeho2/refs/heads/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/masjeho2/masjeho2/refs/heads/output/github-snake.svg" />
   </picture>
 </p>
 
@@ -126,16 +126,16 @@
 ## 🎨 SNAKE PALETTES (Theme Variants)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/masjeho2/masjeho2/output/ocean.svg" alt="ocean" width="49%"/>
-  <img src="https://raw.githubusercontent.com/masjeho2/masjeho2/output/forest.svg" alt="forest" width="49%"/>
+  <img src="https://raw.githubusercontent.com/masjeho2/masjeho2/refs/heads/output/ocean.svg" alt="ocean" width="49%"/>
+  <img src="https://raw.githubusercontent.com/masjeho2/masjeho2/refs/heads/output/forest.svg" alt="forest" width="49%"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/masjeho2/masjeho2/output/catppuccin.svg" alt="catppuccin" width="49%"/>
-  <img src="https://raw.githubusercontent.com/masjeho2/masjeho2/output/catppuccin-dark.svg" alt="catppuccin-dark" width="49%"/>
+  <img src="https://raw.githubusercontent.com/masjeho2/masjeho2/refs/heads/output/catppuccin.svg" alt="catppuccin" width="49%"/>
+  <img src="https://raw.githubusercontent.com/masjeho2/masjeho2/refs/heads/output/catppuccin-dark.svg" alt="catppuccin-dark" width="49%"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/masjeho2/masjeho2/output/synthwave.svg" alt="synthwave" width="49%"/>
-  <img src="https://raw.githubusercontent.com/masjeho2/masjeho2/output/synthwave-dark.svg" alt="synthwave-dark" width="49%"/>
+  <img src="https://raw.githubusercontent.com/masjeho2/masjeho2/refs/heads/output/synthwave.svg" alt="synthwave" width="49%"/>
+  <img src="https://raw.githubusercontent.com/masjeho2/masjeho2/refs/heads/output/synthwave-dark.svg" alt="synthwave-dark" width="49%"/>
 </p>
 
 ---
