@@ -107,7 +107,7 @@
 
 ---
 
-## 🐍 SNAKE ASCII (GitHub Activity)
+## 🐍 SNAKE (GitHub Activity)
 
 <p align="center">
   <img alt="github-snake" src="https://raw.githubusercontent.com/masjeho2/masjeho2/refs/heads/gh-pages/github-snake.svg" />
