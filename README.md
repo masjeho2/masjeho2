@@ -21,7 +21,7 @@
 </div>
 
 <p align="center">
-  <img src="https://opengraph.githubassets.com/1/masjeho2/masjeho2" alt="GitHub Stats" height="170"/>
+  
   <img src="https://streak-stats.demolab.com/?user=masjeho2&theme=chartreuse-dark&hide_border=true&background=0a0a0a&ring=39ff14&fire=ffd700&currStreakLabel=00f0ff" alt="Streak Stats" height="170"/>
 </p>
 
