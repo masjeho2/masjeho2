@@ -110,11 +110,7 @@
 ## 🐍 SNAKE ASCII (GitHub Activity)
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masjeho2/masjeho2/refs/heads/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/masjeho2/masjeho2/refs/heads/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/masjeho2/masjeho2/refs/heads/output/github-snake.svg" />
-  </picture>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/masjeho2/masjeho2/refs/heads/gh-pages/github-snake.svg" />
 </p>
 
 <p align="center">
