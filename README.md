@@ -21,7 +21,6 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/masjeho2?style=for-the-badge&color=39ff14&logo=github&labelColor=0a0a0a&label=ARCADE+FOLLOWERS" alt="Followers" height="170"/>
   <img src="https://streak-stats.demolab.com/?user=masjeho2&theme=chartreuse-dark&hide_border=true&background=0a0a0a&ring=39ff14&fire=ffd700&currStreakLabel=00f0ff" alt="Streak Stats" height="170"/>
 </p>
 
